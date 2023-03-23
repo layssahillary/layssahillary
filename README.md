@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**layssahillary/layssahillary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##⚡ Olá, eu sou a Layssa Hillary!
 
-Here are some ideas to get you started:
+#Sobre mim
+Sou estudante de Sistemas de Informação e apaixonada por tecnologia, design e jogos. Atualmente, sou desenvolvedora Back-end e aspirante a front-end e designer nas horas vagas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#💻 Minhas principais tecnologias
+Aqui estão algumas das tecnologias que eu tenho experiência e que mais gosto de trabalhar:
+
+JavaScript 🚀
+Node.js 🌟
+HTML/CSS 🎨
+MongoDB 🍃
+Docker 🐳
+
+📫 Como entrar em contato comigo
+Se você gostaria de entrar em contato comigo, pode me encontrar em:
+
+E-mail: layssahillary@hotmail.com
+LinkedIn: Layssa hillary
