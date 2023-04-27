@@ -1,4 +1,4 @@
-# ✨  Oie, eu sou a Layssa Hillary! ✨ 
+# ✨  Oie, sou Layssa Hillary! ✨ 
 
 ## Sobre mim
 Sobre mim Sou estudante de Sistemas de Informação e apaixonada por tecnologia, design e jogos. Atualmente, sou desenvolvedora Back-end e aspirante a front-end e designer nas horas vagas.
