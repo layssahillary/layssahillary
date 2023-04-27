@@ -8,9 +8,9 @@ Aqui estão algumas das tecnologias que eu tenho experiência e que mais gosto d
 
 - JavaScript 🚀
 - Node.js 🌟
-- HTML/CSS 🎨
 - MongoDB 🍃
 - Docker 🐳
+- HTML/CSS 🎨 
 
 # 💻 Redes
 - E-mail: layssahillary@hotmail.com
