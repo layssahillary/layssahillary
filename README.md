@@ -14,4 +14,4 @@ Aqui estão algumas das tecnologias que eu tenho experiência e que mais gosto d
 
 # 💻 Redes
 - E-mail: layssahillary@hotmail.com
-- LinkedIn: Layssa hillary
+- LinkedIn: [Layssa hillary](https://www.linkedin.com/in/layssahillary/)
